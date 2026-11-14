@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Cristihan Amao 😉</h1>
-<h3 align="center"> Me Apasiona la  Programacion</h3>
+<h3 align="center"> Me apasiona la  programacion</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
